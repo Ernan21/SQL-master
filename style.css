@@ -1,5 +1,6 @@
 body{
     background-color: black;
+    color: white;
 }
 
 fieldset{
@@ -7,6 +8,7 @@ fieldset{
     border-radius: .5em;
     background-color: skyblue;
 }
+
 legend{
     padding: 0px 100px;
     font-size: 20px;
