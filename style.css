@@ -1,3 +1,7 @@
+*{
+    background-color: black;
+}
+
 fieldset{
     border: 1px solid black;
     border-radius: .5em;
