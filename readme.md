@@ -1,4 +1,4 @@
-<h1>SQL MASTER</h1>
+h1>SQL MASTER</h1>
 <p>Programa voltado para a automação de tarefas</p>
 
 ### Metas
